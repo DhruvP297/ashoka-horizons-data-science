@@ -1,0 +1,20 @@
+Sr. No.,Dish,Ingredient Name,Quantity,Units,Calories,Fat %,Total fat(in g),Category
+1,Pasta,Tomatoes,250,grams,77.5,0.5,0.3875,Fruit
+,,Cheese,25,grams,89.5,30,26.85,Dairy
+,,Wheat,300,grams,313,2,6.26,Grains
+,,Garlic,5,grams,16.55,1,0.1655,Vegetable
+,,Onion,120,grams,48,0.2,0.096,Vegetable
+,,Basil,3,grams,1,1,0.01,Herb
+,,,703,,545.55,,33.769,
+,,,,,,,,
+Sr. No.,Dish,Ingredient Name,Quantity,Units,Calories,Fat %,Total fat(in g),Category
+2,Milkshake,Oreo,10,pieces,160,8.5,13.6,Cookie
+,,Milk,250,mililitres,155,3.5,5.425,Dairy
+,,Ice Cream ,500,mililitres,2750,14,385,Dairy
+,,Chocolate Syrup,20,mililitres,70,2,1.4,Homogenous Mixture(Dairy)
+,,,,,3135,,405.425,
+,,,,,,,,
+Sr. No.,Dish,Ingredient Name,Quantity,Units,Calories,Fat %,Total fat(in g),Category
+3,Chocolate Covered Potato Chips,Milk Chocolate,1,pound,2500,37,925,Homogenous Mixture(Dairy)
+,,Potato Chips,8,cups,1800,32,576,Snacks
+,,,,,4300,,1501,
